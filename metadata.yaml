@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '9684'
     url: http://www.gutenberg.org/2009/agents/9684
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31722#The-Corner-House-Girls-in-a-PlayHow-they-rehearsed-how-they-acted-and-what-the-play-brought-i_
 gutenberg_issued: '2010-03-21'
 gutenberg_type: Text
 identifiers:
